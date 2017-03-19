@@ -1,0 +1,14 @@
+D:\Github\Repos\Orange\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\Github\Repos\Orange\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\Github\Repos\Orange\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\MainWindow.g.cs
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\App.g.cs
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2_MarkupCompile.cache
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2_MarkupCompile.lref
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\MainWindow.baml
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.g.resources
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.Cache
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\Github\Repos\Orange\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
