@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <comics>
+    <name>~modest-medusa</name>
+    <page>800</page>
+  </comics>
+  <comics>
+    <name>~Multiplex</name>
+    <page>900</page>
+  </comics>
+</Table>
