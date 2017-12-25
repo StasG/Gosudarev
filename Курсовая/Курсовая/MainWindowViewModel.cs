@@ -35,10 +35,12 @@ namespace Курсовая
         
         private void GoLenta()
         {
+            //REVIEW: А почему используется строка вместо класса?
             _navigationService?.Navigate(new Uri("List.xaml", UriKind.Relative));
         }
         private void GoPodpiska()
         {
+            //REVIEW: А почему используется строка вместо класса?
             _navigationService?.Navigate(new Uri("Submit.xaml", UriKind.Relative));
         }
         private void GoPrint()
@@ -131,6 +133,7 @@ namespace Курсовая
             _navigationService = NavigationService.GetNavigationService(page as Loading);
             if (Connection.ConnectionAvailable())
             {
+                //REVIEW: А почему используется строка вместо класса?
                 _navigationService?.Navigate(new Uri("List.xaml", UriKind.Relative));
             }
             else

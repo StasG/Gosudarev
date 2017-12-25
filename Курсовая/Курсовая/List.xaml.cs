@@ -24,6 +24,7 @@ namespace Курсовая
     {
         public List()
         {
+            //REVIEW: Всё это должно задаваться в XAML
             InitializeComponent();
             Logic Lo = new Logic();
             if (Lo.CreateLenta())
@@ -58,6 +59,8 @@ namespace Курсовая
                 }
             }
         }
+
+        //REVIEW: В команду
         private void ButtonClick(object sender, RoutedEventArgs e)
         {
             Logic Lo = new Logic();

@@ -22,6 +22,7 @@ namespace Курсовая
     /// </summary>
     public partial class MainWindow : Window
     {
+        //REVIEW: В биндинг
         void fileExitMenuItem_Click(object sender, RoutedEventArgs e)
         {
             this.Close();

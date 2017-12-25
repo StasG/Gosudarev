@@ -39,10 +39,12 @@ namespace DAL
         }
         public string Getname(Int32 n)
         {
+            //REVIEW: А если он null или нет элементов
             return Lenta[n].name;
         }
         public Int32 GetLastPage(Int32 n)
         {
+            //REVIEW: А если он null или нет элементов
             return Lenta[n].LastPage;
         }
         public Site()
