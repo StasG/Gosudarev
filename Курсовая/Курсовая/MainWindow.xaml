@@ -1,0 +1,29 @@
+﻿<Window x:Class="Курсовая.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Курсовая"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="508">
+    <Window.Background>
+        <SolidColorBrush>#333333</SolidColorBrush>
+    </Window.Background>
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+        <StackPanel Orientation="Horizontal" Height="40">
+            <StackPanel Orientation="Vertical" Width="150" HorizontalAlignment="Center">
+                <Button VerticalAlignment="Center" Width="150" HorizontalAlignment="Center" FontSize="20" Visibility="{Binding Source={StaticResource MainWindowVM}, Path=Top}" Command="{Binding Source={StaticResource MainWindowVM}, Path=Lenta}">Лента</Button>
+            </StackPanel>
+            <Line Width="50" StrokeThickness="2" X1="25" X2="25" Y1="0" Y2="40" HorizontalAlignment="Center" Stroke="White"/>
+            <StackPanel Orientation="Vertical" Width="150" HorizontalAlignment="Center">
+                <Button VerticalAlignment="Center" Width="150" HorizontalAlignment="Center" FontSize="20" Visibility="{Binding Source={StaticResource MainWindowVM}, Path=Top}" Command="{Binding Source={StaticResource MainWindowVM}, Path=Podpiska}">Подписка</Button>
+            </StackPanel>
+            <Line Width="50" StrokeThickness="2" X1="25" X2="25" Y1="0" Y2="40" HorizontalAlignment="Center" Stroke="White"/>
+            <StackPanel Orientation="Vertical" Width="100" HorizontalAlignment="Center">
+                <Button VerticalAlignment="Center" Width="100" HorizontalAlignment="Center" FontSize="20"  Click="fileExitMenuItem_Click">Выход</Button>
+            </StackPanel>
+        </StackPanel>
+        <Line Width="500" Height="2" StrokeThickness="2" X1="0" X2="500" Y1="1" Y2="1" HorizontalAlignment="Center" Stroke="White"/>
+        <Frame Name="MainFrame" Source="Loading.xaml" NavigationUIVisibility="Hidden" Height="646" Width="500"></Frame>
+    </StackPanel>
+</Window>

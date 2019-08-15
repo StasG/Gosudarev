@@ -1,0 +1,11 @@
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\DAL.dll
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\DAL.pdb
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\ClassLibrary1.dll
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\ClassLibrary1.pdb
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\EPPlus.dll
+D:\Github\Repos\Orange\course\Курсовая\BusinessLogic\bin\Debug\EPPlus.xml
